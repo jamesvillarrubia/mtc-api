@@ -1,0 +1,19 @@
+{
+  "name": "mtc5",
+  "version": "0.0.0",
+  "authors": [
+    "James Villarrubia"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "font-awesome": "~4.3.0"
+  }
+}
